@@ -9,3 +9,6 @@ It's a REST API that you can insert a book by Title and Author, and search by Id
 ## **Front-end in development.**
 
 Front-end repository [here](https://github.com/TiagoVeri/BookApi-SpringBoot-Angular-Front-End)
+
+## A Implementar:
+JUnit.
